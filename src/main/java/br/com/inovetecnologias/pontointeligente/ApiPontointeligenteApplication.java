@@ -8,7 +8,6 @@ public class ApiPontointeligenteApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(ApiPontointeligenteApplication.class, args);
-	}
-	
+	}	
 
 }
